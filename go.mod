@@ -1,4 +1,4 @@
-module github.com/byte1023/ethgo
+module github.com/umbracle/ethgo
 
 go 1.18
 
